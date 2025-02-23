@@ -27,10 +27,17 @@ Ensure you have the following installed:
 - Swagger UI
 - Visual Studio 2022 / VS Code
 
-Changes DB Connection File appsettings.Development.json:
-- "ConnectionStrings": {
-  "SqlConnection": "Server=your_db; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
-},
+# Database Configuration & Restoration
+
+## 🔧 Update Database Connection
+Ensure your `appsettings.Development.json` file is configured correctly. Update the connection string as follows:
+
+```json
+{
+  "ConnectionStrings": {
+    "SqlConnection": "Server=your_db; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
+  }
+}
 
 Restore Database
 - Download file
