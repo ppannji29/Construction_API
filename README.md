@@ -27,8 +27,8 @@ Ensure you have the following installed:
 - Swagger UI
 - Visual Studio 2022 / VS Code
 
-System Changes File appsettings.Development.json:
+Changes DB Connection File appsettings.Development.json:
 - "ConnectionStrings": {
-  "SqlConnection": "Server=your_local_server; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
+  "SqlConnection": "Server=your_db; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
 },
 
