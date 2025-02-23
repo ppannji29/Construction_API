@@ -32,3 +32,11 @@ Changes DB Connection File appsettings.Development.json:
   "SqlConnection": "Server=your_db; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
 },
 
+Restore Database
+- Download file
+- Restore Database
+- Select Device
+- Select '...'
+- Click 'Add', find based on All files
+- Select Backup File 'App_Contruction'
+- Click OK
