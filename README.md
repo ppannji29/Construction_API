@@ -28,7 +28,7 @@ Ensure you have the following installed:
 - Visual Studio 2022 / VS Code
 
 System Changes File appsettings.Development.json:
-"ConnectionStrings": {
+- "ConnectionStrings": {
   "SqlConnection": "Server=your_local_server; Database=App_Construction; Integrated Security=True; TrustServerCertificate=True;"
 },
 
