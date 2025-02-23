@@ -29,6 +29,15 @@ Ensure you have the following installed:
 
 # Database Configuration & Restoration
 
+Restore Database
+- Download file
+- Restore Database
+- Select Device
+- Select '...'
+- Click 'Add', find based on All files
+- Select Backup File 'App_Contruction'
+- Click OK
+
 ## 🔧 Update Database Connection
 Ensure your `appsettings.Development.json` file is configured correctly. Update the connection string as follows:
 
@@ -39,11 +48,3 @@ Ensure your `appsettings.Development.json` file is configured correctly. Update 
   }
 }
 
-Restore Database
-- Download file
-- Restore Database
-- Select Device
-- Select '...'
-- Click 'Add', find based on All files
-- Select Backup File 'App_Contruction'
-- Click OK
