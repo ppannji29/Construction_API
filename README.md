@@ -39,7 +39,7 @@ Restore Database
 - Click OK
 
 ## 🔧 Update Database Connection
-Ensure your `appsettings.Development.json` & `appsettings.json` file is configured correctly. Update the connection string as follows:
+Ensure your `appsettings.Development.json` & `appsettings.json` file is configured correctly. Update the connection string with your local database:
 
 ```json
 {
