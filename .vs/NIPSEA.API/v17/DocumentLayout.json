@@ -34,8 +34,7 @@
               "RelativeToolTip": "NIPSEA.API\\Repository\\CategoryRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAtwDAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T03:54:00.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T03:54:00.777Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "NIPSEA.API\\Controllers\\ConstructionController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\WebApp2\\Construction_API\\NIPSEA.API\\Controllers\\ConstructionController.cs",
               "RelativeToolTip": "NIPSEA.API\\Controllers\\ConstructionController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAuwFUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwFUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T03:43:35.489Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "NIPSEA.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:21:15.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T01:21:15.375Z"
             }
           ]
         }
