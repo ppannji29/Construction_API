@@ -30,7 +30,7 @@ Ensure you have the following installed:
 # Database Configuration & Restoration
 
 Restore Database
-- Download file 'NIPSEA.API/App_Contruction' backup file (find in this repository)
+- Download file 'App_Contruction_DB' backup file (find in this repository)
 - Restore Database
 - Select Device
 - Select '...'
