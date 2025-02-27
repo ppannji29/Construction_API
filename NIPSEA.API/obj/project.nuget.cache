@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLkzKG3IeFc=",
+  "dgSpecHash": "3GmYaY8UKqk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\NIPSEA.API.Construction\\NIPSEA.API\\NIPSEA.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\WebApp2\\Construction_API\\NIPSEA.API\\NIPSEA.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\autowrapper.core\\4.5.1\\autowrapper.core.4.5.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
