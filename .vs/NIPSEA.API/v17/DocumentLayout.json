@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "NIPSEA.API\\Repository\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\WebApp2\\Construction_API\\NIPSEA.API\\Repository\\CategoryRepository.cs",
               "RelativeToolTip": "NIPSEA.API\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAtwDAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAMwEwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T03:54:00.777Z"
+              "WhenOpened": "2025-02-27T03:54:00.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "NIPSEA.API\\Controllers\\ConstructionController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\WebApp2\\Construction_API\\NIPSEA.API\\Controllers\\ConstructionController.cs",
               "RelativeToolTip": "NIPSEA.API\\Controllers\\ConstructionController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwFUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwFQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T03:43:35.489Z",
               "EditorCaption": ""

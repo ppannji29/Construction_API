@@ -82,6 +82,8 @@ namespace NIPSEA.API.Controllers
                     }
                 }
 
+                await _categoryRepository.RefreshCategory();
+
                 // insert batch construction
                 await _constructionRepository.InsertNewConstruction(dtoList);
 
